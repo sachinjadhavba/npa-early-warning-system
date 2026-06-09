@@ -119,11 +119,11 @@ matplotlib>=3.6.0
 
 ---
 
-*Built from real banking experience. Every trigger threshold has been calibrated against live portfolio outcomes.*
-
 Attribution
 Domain framework: Sachin Jadhav — 19 years SME/MSME credit appraisal and portfolio management, IndusInd Bank, CSB Bank, ING Vysya Bank, Yes Bank, South Indian Bank, Axis Bank.
 
 Code: Developed with AI assistance (Claude by Anthropic). The analytical logic, trigger thresholds, and portfolio concepts are based on real banking experience. The Python implementation was built with AI tools.
 
 This is honest. The framework is mine. The code is assisted.
+
+*Built from real banking experience. Every trigger threshold has been calibrated against live portfolio outcomes.*
